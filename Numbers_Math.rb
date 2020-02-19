@@ -1,4 +1,4 @@
-#this Drills for learning how to used numbers and math in ruby
+#this exercise for learning how to used numbers and math in ruby... 20-2-2020
 
 puts "i will now count my chicknes"
 
